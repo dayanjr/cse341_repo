@@ -1,10 +1,15 @@
-function getBob(){
-    return "Bob";
+function getDayan(){
+    return "Dayan";
 }
-function getSue(){
-    return "Sue";
+function getKevin(){
+    return "Kevin";
+}
+function getRoss(){
+    return "Ross";
 }
 module.exports = {
-    "getBob": getBob,
-    "getSue": getSue
+    "getDayan": getDayan,
+    "getKevin": getKevin,
+    "getRoss": getRoss
+
 }
